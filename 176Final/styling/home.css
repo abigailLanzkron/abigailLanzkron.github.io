@@ -1,0 +1,14 @@
+body{
+    margin: 20px;
+    padding: 1em;
+    background-color: #7e9fdc;
+    justify-content: center;
+}
+
+#about_me{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: blanchedalmond;
+    margin: 2em;
+    padding: 1em;
+    justify-content: center;
+}
